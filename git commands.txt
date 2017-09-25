@@ -1,0 +1,14 @@
+git reset --hard
+git fetch —all
+git pull
+git checkout release_v1.0.0
+git checkout APIN-#
+
+
+
+
+git add .
+git commit -m 'message'
+git push -u origin APIN-#
+
+
