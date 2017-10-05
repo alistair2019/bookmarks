@@ -12,3 +12,14 @@ git commit -m 'message'
 git push -u origin APIN-#
 
 
+
+
+
+
+
+
+
+
+sudo code --user-data-dir="~/.vscode-root"
+
+
