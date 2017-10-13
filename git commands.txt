@@ -43,6 +43,10 @@ chown -R alistair:root /home/apportal
 redis-server
 
 
+app/config/production/protal.config.php
+---------------------------------------------
+
+$_RESTRICTED_COUNTRIES = array('XX','YY');
 
 
 
