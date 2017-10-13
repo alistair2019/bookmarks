@@ -13,13 +13,43 @@ git push -u origin APIN-#
 
 
 
-
-
-
-
-
-
-
 sudo code --user-data-dir="~/.vscode-root"
+
+alistair@alistair-MS-7519:~$ sudo -i 
+[sudo] password for alistair: 
+root@alistair-MS-7519:~# sudo chmod -R guo+w /home/alistair/github2/airpush22/app/storage
+root@alistair-MS-7519:~# sudo chmod -R gu+w /home/alistair/github2/airpush22/app/storage
+root@alistair-MS-7519:~# 
+
+
+cd /etc/openvpn/ && openvpn client.ovpn;
+
+t@alistair-MS-7519:~# cd /etc/openvpn/ && openvpn client.ovpn;
+
+
+
+
+sudo service nginx restart
+
+
+
+
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /home/alistair/github2/local.manage.airpush.com.key -out /home/alistair/github2/local.manage.airpush.com.crt
+
+
+chmod -R 777 /home/apportal
+chown -R alistair:root /home/apportal
+
+redis-server
+
+
+
+
+
+
+
+
+
+
 
 
