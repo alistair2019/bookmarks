@@ -1,0 +1,6 @@
+
+https://laracasts.com/discuss/channels/laravel/general-error-1615-prepared-statement-needs-to-be-re-prepared-selecting-mysql-view
+
+https://www.youtube.com/watch?v=ZzHtAp_KGaU
+https://www.youtube.com/watch?v=XCQ0ZSr-a2o
+https://www.youtube.com/watch?v=1QI-UE3-0PU
