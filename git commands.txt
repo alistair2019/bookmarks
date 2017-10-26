@@ -54,7 +54,12 @@ $_RESTRICTED_COUNTRIES = array('XX','YY');
 
 https://www.youtube.com/watch?v=kUrRPn_PtGM
 https://www.youtube.com/watch?v=1QI-UE3-0PU
+
+
+React & Redux Tutorial 5 - Store, State, Dispatch(Action), Reducer Continued 2
 https://www.youtube.com/watch?v=cbVN7uRaKgk
+
+[React/Redux] Logicless Components with Reselect
 https://www.youtube.com/watch?v=XCQ0ZSr-a2o
 
 Building your first React + Redux Application (#2): Actions, Reducers, and Store
