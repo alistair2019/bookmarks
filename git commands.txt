@@ -57,6 +57,11 @@ https://www.youtube.com/watch?v=1QI-UE3-0PU
 https://www.youtube.com/watch?v=cbVN7uRaKgk
 https://www.youtube.com/watch?v=XCQ0ZSr-a2o
 
+Building your first React + Redux Application (#2): Actions, Reducers, and Store
+https://www.youtube.com/watch?v=EKvvqEHWvH4
+
+
+
 
 
 
